@@ -1,3 +1,5 @@
+### [👉👉👉♥♥点此进入♥观看入口👈👈👈](https://mrddrm.github.io/91.html)
+<br></br><br></br><br></br>
 self.users[self.current_user]['records'].append(record)
         self.save_data()
         return True, "记录成功"
